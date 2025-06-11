@@ -20,11 +20,10 @@ Desenvolver um ambiente virtual imersivo em que usuários possam explorar o inte
 ---
 
 ##  Estrutura do Repositório
-📁 TourVirtualMuseuSJ
-├── 📄 README.md – Explica o projeto, objetivos, tecnologias e estrutura.
-├── 📄 processo.md – Documento com relato das etapas, dificuldades e próximos passos.
-├── 📁 imagens/ambiente-01/ – Para armazenar fotos do primeiro ambiente.
-└── 📁 imagens/ambiente-02/ – Para fotos do segundo ambiente.
+
+- [`imagens/ambiente-01/`](./imagens/AMBIENTE-01/) – Fotos e materiais do primeiro ambiente.
+- [`imagens/ambiente-02/`](./imagens/AMBIENTE-02/) – Fotos e materiais do segundo ambiente.
+- [`processo.md`](./processo.md) – Relato das etapas, dificuldades e avanços do projeto.
 ---
 
 ##  Equipe
