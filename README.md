@@ -15,7 +15,6 @@ Desenvolver um ambiente virtual imersivo em que usuários possam explorar o inte
 - **[Three.js](https://threejs.org/)** – Biblioteca JavaScript usada para criar e renderizar ambientes 3D diretamente no navegador.
 - **[Hugin](http://hugin.sourceforge.net/)** – Software livre para criação de panoramas 360°, a partir de múltiplas imagens capturadas no museu.
 - **[GitHub - Guglevers/Virtual_Tour](https://github.com/Guglevers/Virtual_Tour)** – Projeto de código aberto utilizado como **base e inspiração técnica** para a construção do nosso tour.
-- **JavaScript / HTML / CSS** – Linguagens utilizadas para estruturação e desenvolvimento da interface.
 - **Trello** – Para organização, distribuição de tarefas e acompanhamento das etapas do projeto.
 
 ---
@@ -26,7 +25,7 @@ Desenvolver um ambiente virtual imersivo em que usuários possam explorar o inte
 
 ##  Equipe
 
-- **Lucas Gabriel David da Silva** – Coordenador
+- Lucas Gabriel David da Silva – Coordenador
 - João Pedro Callegaro Guimarães
 - Lucas de Leon Rodrigues Coelho
 - Victor Gabriel de Souza Lacerda Belém
@@ -64,7 +63,7 @@ A estrutura, lógica e aplicação da biblioteca Three.js desse projeto foram fu
 
 ---
 
-## 📜 Licença
+## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
